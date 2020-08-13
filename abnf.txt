@@ -1,6 +1,7 @@
 @@||aadrm.com
 @@||acompli.net
 @@||aka.ms
+@@||akadns.net
 @@||akamaihd.net
 @@||akamaized.net
 @@||aspnetcdn.com
@@ -18,11 +19,13 @@
 @@||bingforbusiness.com
 @@||cloudapp.net
 @@||cloudappsecurity.com
+@@||edgekey.net
 @@||edgesuite.net
 @@||footprintdns.com
 @@||getmicrosoftkey.com
 @@||gfx.ms
 @@||hocketapp.net
+@@||l-msedge.net
 @@||linkedin.com
 @@||live.com
 @@||lync.com
@@ -72,6 +75,7 @@
 @@||sway-cdn.com
 @@||sway-extensions.com
 @@||sway.com
+@@||t-msedge.net
 @@||tenor.com
 @@||trafficmanager.net
 @@||virtualearth.net
