@@ -24,6 +24,7 @@
 @@||footprintdns.com
 @@||getmicrosoftkey.com
 @@||gfx.ms
+@@||github.com
 @@||hocketapp.net
 @@||l-msedge.net
 @@||linkedin.com
@@ -81,6 +82,7 @@
 @@||virtualearth.net
 @@||visualstudio.com
 @@||visualstudio.net
+@@||vsassets.io
 @@||windows-ppe.net
 @@||windows.com
 @@||windows.net
