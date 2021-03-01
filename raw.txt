@@ -49,6 +49,7 @@ msn.com
 msocdn.com
 msocsp.com
 mstea.ms
+o365filtering.com
 o365weve.com
 oaspapps.com
 office.com
